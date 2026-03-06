@@ -1,0 +1,6 @@
+REGEDIT4
+
+;Restore to desktop My Bluetooth places
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Explorer\Desktop\NameSpace\{6af09ec9-b429-11d4-a1fb-0090960218cb}]
+@="My Bluetooth Places"
+

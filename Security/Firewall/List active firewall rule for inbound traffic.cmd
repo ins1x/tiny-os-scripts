@@ -1,0 +1,1 @@
+netsh advfirewall firewall show rule name=all | findstr "Enabled: Yes Direction: In"

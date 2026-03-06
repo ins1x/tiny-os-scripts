@@ -1,0 +1,3 @@
+http://get.opera.com/ftp/pub/opera/win/
+http://get.opera.com/ftp/pub/opera/mac/
+http://get.opera.com/ftp/pub/opera/linux/

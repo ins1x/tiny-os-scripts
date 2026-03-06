@@ -1,0 +1,1 @@
+tasklist /fo list /fi "CPUtime gt 'time in the format HH:MM:SS'" 

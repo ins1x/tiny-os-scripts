@@ -1,0 +1,1 @@
+netsh interface dump > net_conf.txt

@@ -1,0 +1,1 @@
+netsh advfirewall firewall show rule name="Firewall rule name" verbose | findstr "LocalIP LocalPort RemoteIP RemotePort"

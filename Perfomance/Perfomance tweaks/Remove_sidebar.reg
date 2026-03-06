@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+
+;Remove windows sidebar win 7+ (speed up bot time)
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run]
+"Sidebar"=-

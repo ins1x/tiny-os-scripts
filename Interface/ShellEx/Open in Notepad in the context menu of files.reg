@@ -1,0 +1,8 @@
+Windows Registry Editor Version 5.00 
+
+;Добавляем пункт "Открыть в блокноте" в контекстное меню файлов
+[HKEY_CLASSES_ROOT\*\shell\Открыть в Блокноте] 
+@="" 
+
+[HKEY_CLASSES_ROOT\*\shell\Открыть в Блокноте\command] 
+@="notepad.exe %1" 

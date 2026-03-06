@@ -1,0 +1,9 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\exefile\shell\RunAsInvoker]
+; "Extended"=""
+"Icon"="imageres.dll,1"
+@="Запуск с пониженными правами"
+
+[HKEY_CLASSES_ROOT\exefile\shell\RunAsInvoker\command]
+@="cmd /c set __COMPAT_LAYER=RunAsInvoker & start \"\" \"%1\" %*"

@@ -1,0 +1,11 @@
+Windows Registry Editor Version 5.00
+;Do not add a "Shortcut for..." to the created shortcuts and display the shortcut arrows
+
+[HKEY_LOCAL_MACHINE\Loaded_User\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer]
+"link"=hex:00,00,00,00
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Explorer\Shell Icons]
+"29"=-
+[HKEY_LOCAL_MACHINE\Software\Classes\lnkfile]
+"IsShortCut"=""
+"IsNotShortCut"=-

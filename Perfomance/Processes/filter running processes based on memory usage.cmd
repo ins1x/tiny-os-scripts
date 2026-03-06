@@ -1,0 +1,1 @@
+tasklist /fo list /fi "MEMUSAGE gt 'Memory usage in KB'" 

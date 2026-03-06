@@ -1,0 +1,45 @@
+Video Card Drivers
+Get the Latest Video Drivers Online
+
+NVIDIA Video Drivers (GeForce, TNT, Riva, and Quadro cards) http://nvidia.com/content/drivers/drivers.asp
+
+ATI Video Drivers (Radeon and Rage cards) http://mirror.ati.com/support/drivers/powered.html
+
+3dfx Voodoo Drivers (Voodoo 3-5 cards) http://www.voodoofiles.com/type.asp?cat_id=1
+
+Creative Drivers (Video Blaster, Annihilator, RIVA, Savage, Voodoo 2, and Banshee cards) http://www.americas.creative.com/support/
+
+3Dlabs Drivers (Wildcat and Oxygen cards) http://www.3dlabs.com/support/drivers/index.htm
+
+Other Video Card Companies
+
+Alliance	http://www.alsc.com
+ATI Technologies, Inc.	http://www.atitech.ca
+Canopus Corp.	http://www.total3d.com
+Chips and Technologies	http://www.chips.com
++ Cirrus Logic	http://www.cirrus.com
+Creative Labs	http://www.creativelabs.com
+Deltron Technology	http://www.deltrontech.com
+Diamond Multimedia Sys.	http://www.diamondmm.com
+Gainward Co.	http://www.gainward.com
+Hercules	http://www.hercules.com
+Intergraph Corp.	http://www.ingr.com
+Jaton	http://www.jaton.com
+Matrox Electronic Systems	http://www.matrox.com
+Miro	http://www.miro.com
+Number Nine Visual Technology	http://www.nine.com
+NuVision Technologies	http://www.nuvision3d.com
+NVIDIA	http://www.nvidia.com
+Oak	http://www.oaktech.com
+Orchid Technology, Inc.	http://www.orchid.com
+Paradise Multimedia	http://www.paradisemmp.com
+Quantum 3D	http://www.quantum3d.com
+Rendition	http://www.rendition.com
+Sigma Designs	http://www.sigmadesigns.com
+StereoGraphics	http://www.stereographics.com
+Trident Microsystems	http://www.trident.com
+Tseng Laboratories	http://www.tseng.com
+VideoLogic	http://www.videologic.com
+Look up your video manufacturer on Video-Drivers.com
+
+ 

@@ -1,0 +1,8 @@
+Windows Registry Editor Version 5.00
+;Добавление пунктов "Копировать в папку" и "Переместить в папку" в контекстное меню.
+
+[HKEY_CLASSES_ROOT\AllFilesystemObjects\shellex\ContextMenuHandlers\CopyTo]
+@="{C2FBB630-2971-11d1-A18C-00C04FD75D13}"
+ 
+[HKEY_CLASSES_ROOT\AllFilesystemObjects\shellex\ContextMenuHandlers\MoveTo]
+@="{C2FBB631-2971-11d1-A18C-00C04FD75D13}"

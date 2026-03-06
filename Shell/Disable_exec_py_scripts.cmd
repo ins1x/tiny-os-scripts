@@ -1,0 +1,1 @@
+reg add HKCU\SOFTWARE\Classes\.py /v PerceivedType /t REG_SZ /d text

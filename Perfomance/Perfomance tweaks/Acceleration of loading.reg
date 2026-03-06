@@ -1,0 +1,9 @@
+Windows Registry Editor Version 5.00
+
+;Ускорить перезагрузку
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon]
+"EnableQuickReboot"="1"
+
+;Ускорение загрузки
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\MemoryManagement\PrefetchParameters]
+"EnablePrefetcher"=dword:00000003

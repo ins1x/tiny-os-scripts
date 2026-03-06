@@ -1,0 +1,6 @@
+Windows Registry Editor Version 5.00
+
+;Отключить Aero Snap
+[HKEY_CURRENT_USER\Control Panel\Desktop]
+"SnapSizing"="0"
+"WindowArrangementActive"="0"

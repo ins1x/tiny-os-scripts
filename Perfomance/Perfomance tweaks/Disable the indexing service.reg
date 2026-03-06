@@ -1,0 +1,4 @@
+;Отключить Службу индексирования
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CiSvc]
+"Start"=dword:00000004

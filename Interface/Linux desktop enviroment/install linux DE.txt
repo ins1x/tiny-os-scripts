@@ -1,0 +1,14 @@
+To install the Ubuntu desktop system (gnome 3), run:
+$ sudo apt install ubuntu-desktop
+
+OR use transitional package name for Gnome 3 desktop:
+$ sudo apt install ubuntu-gnome-desktop
+
+Run the following to install Kubuntu Plasma Desktop/Netbook system (kde):
+$ sudo apt install kubuntu-desktop
+
+Want Lubuntu Desktop environment?, Try:
+$ sudo apt install lubuntu-desktop
+
+Execute the following command to install Xubuntu desktop system:
+$ sudo apt install xubuntu-desktop

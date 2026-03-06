@@ -1,0 +1,11 @@
+Windows Registry Editor Version 5.00
+
+;Синхронизация часов раз в неделю
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\W32Time]
+"Period"=dword:00065533
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\W32Time]
+"Period"=dword:00065533
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet002\services\W32Time]
+"Period"=dword:00065533

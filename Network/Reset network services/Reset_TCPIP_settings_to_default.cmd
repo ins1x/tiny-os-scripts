@@ -1,0 +1,1 @@
+netsh int ip reset C:\TEMP\resetlog.txt

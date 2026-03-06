@@ -1,0 +1,11 @@
+Windows Registry Editor Version 5.00
+
+;Вызов командной строки из контекстного меню дисков и папок
+[HKEY_LOCAL_MACHINE\Software\Classes\Directory\shell\cmd]
+@="Командная строка"
+[HKEY_LOCAL_MACHINE\Software\Classes\Directory\shell\cmd\command]
+@="cmd.exe /k \"cd \"%L\"\""
+[HKEY_LOCAL_MACHINE\Software\Classes\Drive\shell\cmd]
+@="Командная строка"
+[HKEY_LOCAL_MACHINE\Software\Classes\Drive\shell\cmd\command]
+@="cmd.exe /k \"cd \"%L\"\""

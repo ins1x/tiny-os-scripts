@@ -1,0 +1,1 @@
+del /q /s /f “C:\Users\Username\AppData\Local\Google\Chrome\User Data\Default\History” 
