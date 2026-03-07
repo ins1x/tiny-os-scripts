@@ -14,5 +14,7 @@ A set of small scripts for diagnosing and quickly configuring operating system s
 * [Packages](./Packages) - manage packages and system updates
 * [Perofmance](./Perofmance) - benchmark, analyze, cleanup system
 
+> Be careful. Don't run scripts without understanding their purpose!
+
 ## Unlicensed
 All scripts are small and fairly simple. Of course, they shouldn't be subject to any restrictions, and you can do whatever you want with them.

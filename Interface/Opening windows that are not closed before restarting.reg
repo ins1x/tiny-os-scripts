@@ -1,5 +1,4 @@
 Windows Registry Editor Version 5.00
-
-;Автоматическое открытие окон папок при загрузке, которые были не закрыты перед последней перезагрузкой
+;Automatically open folder windows on boot that were not closed before the last reboot
 [HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced]
 "PersistBrowsers"=dword:00000001

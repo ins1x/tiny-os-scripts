@@ -1,0 +1,1 @@
+Get-WinEvent -FilterHashtable @{LogName="Security";ID=4647} -MaxEvents <count> | Format-Table -Wrap 

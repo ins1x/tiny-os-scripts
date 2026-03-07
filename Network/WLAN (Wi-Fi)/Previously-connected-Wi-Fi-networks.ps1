@@ -1,0 +1,1 @@
+Netsh wlan show profiles |Write-Output 
