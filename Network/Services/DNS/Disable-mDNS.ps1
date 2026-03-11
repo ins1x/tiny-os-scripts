@@ -1,0 +1,2 @@
+# Disabling mDNS IP Masking
+REG ADD "HKLM\SYSTEM\CurrentControlSet\Services\Dnscache\Parameters" /v " EnableMDNS" /t REG_DWORD /d "0" /f
