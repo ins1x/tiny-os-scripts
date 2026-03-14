@@ -1,6 +1,6 @@
 Windows Registry Editor Version 5.00
 
-;Запуск службы времени вручную
+;Starting the time service manually
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\W32Time]
 "Start"=dword:00000003
 

@@ -1,6 +1,6 @@
 Windows Registry Editor Version 5.00
 
-;Синхронизация часов раз в неделю
+;Synchronize the clock once a week
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\W32Time]
 "Period"=dword:00065533
 
