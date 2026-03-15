@@ -1,0 +1,9 @@
+:: Cleaning GPU Driver Caches
+del /s /f /q "%USERPROFILE%\AppData\LocalLow\NVIDIA\PerDriverVersion\DXCache\*.*"
+del /s /f /q "%USERPROFILE%\AppData\Local\NVIDIA\DXCache\*.*"
+del /s /f /q "%USERPROFILE%\AppData\Local\NVIDIA\GLCache\*.*"
+del /s /f /q "%USERPROFILE%\AppData\Local\AMD\DxCache\*.*"
+del /s /f /q "%USERPROFILE%\AppData\Local\AMD\DxcCache\*.*"
+del /s /f /q "%USERPROFILE%\AppData\Local\AMD\VkCache\*.*"
+del /s /f /q "%USERPROFILE%\AppData\LocalLow\AMD\DxCache\*.*"
+del /s /f /q "%USERPROFILE%\AppData\Local\Intel\ShaderCache\*.*"
