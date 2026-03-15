@@ -18,6 +18,7 @@
 ```
 A set of small scripts for diagnosing and quickly configuring operating system settings. It contains minimalistic shell scripts and tweaks consisting of one or more blocks, each solving a specific problem. Various versions of platforms Windows and Linux are supported. Preference is given to one-line and universal scripts. 
 
+> [!CAUTION]
 > Be careful. Don't run scripts without understanding their purpose! All scripts contain comments describing their purpose.
 
 ### Сontent
@@ -29,6 +30,7 @@ A set of small scripts for diagnosing and quickly configuring operating system s
 * [Perfomance](./Perfomance) - benchmark, analyze, cleanup system
 * [Security](./Security) - security and privacy settings
 
+> [!NOTE]
 > You can save the set to a bootable USB drive, or copy it to cloud storage, and use it to quickly configure various system settings.
 
 ### Unlicensed

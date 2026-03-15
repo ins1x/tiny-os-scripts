@@ -1,5 +1,6 @@
 Windows Registry Editor Version 5.00
 
+;System File Checker (SFC) in Windows is a built-in utility designed to find and repair corrupted or missing system files.
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon]
 "SfcQuota"=dword:ffffffff
 "SFCDisable"=dword:00000000
