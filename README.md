@@ -22,7 +22,7 @@ A set of small scripts for diagnosing and quickly configuring operating system s
 
 ### Сontent
 
-* [Devices](./Drivers) - everything related drivers and devices
+* [Devices](./Devices) - everything related drivers and devices
 * [Interface](./Interface) - setup interface for your system
 * [Network](./Network) - setting up the network
 * [Packages](./Packages) - manage packages and system updates
