@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+
+;Set NTP server to PTB (instead of time.windows.com)
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\W32Time\Parameters]
+"NtpServer"="ptbtime1.ptb.de,0x9"
