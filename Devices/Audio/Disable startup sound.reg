@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+
+;Disable startup sound
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Authentication\LogonUI\BootAnimation]
+"DisableStartupSound"=dword:00000001

@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+
+; Disable Input Experience (20% idle CPU usage in Windows Explorer)
+[HKEY_CURRENT_USER\Software\Microsoft\input]
+"IsInputAppPreloadEnabled"=dword:00000000
