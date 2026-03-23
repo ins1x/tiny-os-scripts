@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+
+;Disable Windows Spotlight on Desktop Background
+[HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows\CloudContent]
+"DisableSpotlightCollectionOnDesktop"=dword:00000001

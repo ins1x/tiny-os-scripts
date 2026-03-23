@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+
+;Enable font smoothing (using cleartype)
+[HKEY_CURRENT_USER\Control Panel\Desktop]
+"FontSmoothing"="2"
