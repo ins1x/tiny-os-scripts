@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+
+;Interpret RTC time as UTC (dual-boot with Linux)
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\TimeZoneInformation]
+"RealTimeIsUniversal"=dword:00000001
