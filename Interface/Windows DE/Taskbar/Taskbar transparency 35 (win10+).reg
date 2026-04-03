@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+
+; Adds 35% taskbar transparency. (Win10+)
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Advanced]
+"UseOLEDTaskbarTransparency"=dword:00000001

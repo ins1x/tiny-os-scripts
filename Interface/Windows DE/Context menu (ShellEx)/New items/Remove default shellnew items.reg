@@ -1,0 +1,6 @@
+Windows Registry Editor Version 5.00
+
+; Removes default items from the context menu: Bitmap, Contact, RTF document
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\.bmp\ShellNew]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\.contact\ShellNew]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\.rtf\ShellNew]

@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+; By default, additional context menu items appear with a 400ms delay. 
+; This is to prevent Explorer from hogging memory and to prevent Explorer itself from becoming overwhelmed and crashing. 
+
+[HKEY_CURRENT_USER\Control Panel\Desktop]
+"MenuShowDelay"="20"

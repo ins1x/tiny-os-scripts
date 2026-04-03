@@ -1,0 +1,6 @@
+Windows Registry Editor Version 5.00
+
+; By default, Windows doesn't save window positions or their states after shutdown. 
+; This tweak will remember the appearance of open folders to restore them after logout, reboot, and shutdown.
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced]
+"PersistBrowsers"=dword:00000001

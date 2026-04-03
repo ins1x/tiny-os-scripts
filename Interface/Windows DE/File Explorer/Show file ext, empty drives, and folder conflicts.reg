@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+; Show file extensions, empty drives, and folder conflicts (Win 10)
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced]
+"HideDrivesWithNoMedia"=dword:00000000
+"HideFileExt"=dword:00000000
+"HideMergeConflicts"=dword:00000000

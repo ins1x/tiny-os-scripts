@@ -1,0 +1,8 @@
+Windows Registry Editor Version 5.00
+
+; Typically, fast typists don't even notice when the cursor blinks, 
+; as fast typing keeps the cursor from going dark. 
+
+; Standard value: 530
+[HKEY_CURRENT_USER\Control Panel\Desktop]
+"CursorBlinkRate"="250"

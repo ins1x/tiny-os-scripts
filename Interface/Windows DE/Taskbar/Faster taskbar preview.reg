@@ -1,0 +1,8 @@
+Windows Registry Editor Version 5.00
+
+; By default, the Taskbar preview takes too long to display previews of running applications.
+; To speed up previews, we recommend the tweak below.
+; Default value: 400
+
+[HKEY_CURRENT_USER\Control Panel\Mouse]
+"MouseHoverTime"="20"

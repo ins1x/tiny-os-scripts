@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+
+; Remove the 247 character limit on path lengths in Explorer
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\FileSystem]
+"LongPathsEnabled"=dword:00000001

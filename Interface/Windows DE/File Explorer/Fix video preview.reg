@@ -1,0 +1,6 @@
+Windows Registry Editor Version 5.00
+
+; Fix video preview display (removes filmstrip on the sides and the player icon at the bottom)
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\SystemFileAssociations\video]
+"Treatment"=dword:00000000
+"TypeOverlay"=""
