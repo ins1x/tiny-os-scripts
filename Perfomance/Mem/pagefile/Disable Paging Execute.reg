@@ -1,0 +1,6 @@
+Windows Registry Editor Version 5.00
+
+; System kernel and drivers will not be stored in the paging file, 
+; but will always be in RAM, which will also improve response.
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management]
+"DisablePagingExecutive"=dword:00000001

@@ -1,0 +1,19 @@
+Windows Registry Editor Version 5.00
+
+; Set IRQL Interrupt prioritization for drivers
+
+; DirectX Graphics Kernel
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\DXGKrnl\Parameters]
+"ThreadPriority"=dword:0000000f
+
+; Videocard driver nVidia
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\nvlddmkm\Parameters]
+"ThreadPriority"=dword:0000001f
+
+; USB3 HUB Driver
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\USBHUB3\Parameters]
+"ThreadPriority"=dword:0000000f
+
+; USB xHCI Compliant Host Controller
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\USBXHCI\Parameters]
+"ThreadPriority"=dword:0000000f

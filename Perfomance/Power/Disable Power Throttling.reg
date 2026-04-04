@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+; Power Throttling is service designed to slow down background applications and processes
+; to save power on laptops. In our case, unnecessary throttling would be unnecessary, 
+; so it's recommended to disable it.
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power\PowerThrottling]
+"PowerThrottlingOff"=dword:00000001

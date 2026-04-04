@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+
+; LazyMode is a software flag that allows the system to skip some hardware events when CPU load is low.
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile]
+"LazyModeTimeout"=dword:00002710

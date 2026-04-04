@@ -1,0 +1,10 @@
+Windows Registry Editor Version 5.00
+
+; Disable automatic driver updates. 
+; Why? Windows often installs very outdated drivers, so for optimal device performance,
+; it's essential to update drivers from the manufacturer's website, especially for video card drivers.
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\DriverSearching]
+"SearchOrderConfig"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate]
+"ExcludeWUDriversInQualityUpdate"=dword:00000001

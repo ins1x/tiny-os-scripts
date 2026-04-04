@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+
+; This setting allows you to adjust the number of time slices allocated to background and foreground processes. 
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\PriorityControl]
+"Win32PrioritySeparation"=dword:00000026

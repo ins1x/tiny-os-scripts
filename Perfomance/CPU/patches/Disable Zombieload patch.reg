@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+
+; Disabling Zombieload v2 patche
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Kernel]
+"DisableTsx"=dword:00000001

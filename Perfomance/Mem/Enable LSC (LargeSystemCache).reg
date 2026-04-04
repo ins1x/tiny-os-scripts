@@ -1,0 +1,6 @@
+Windows Registry Editor Version 5.00
+
+; Enabling Large System Cache forces the operating system to use all RAM for system
+; file cache, except for 4 MB reserved for disk cache, thus improving Windows responsiveness.
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management]
+"LargeSystemCache"=dword:00000001
