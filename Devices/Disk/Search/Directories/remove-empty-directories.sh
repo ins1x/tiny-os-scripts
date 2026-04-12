@@ -1,0 +1,3 @@
+#!/bin/sh
+# Remove all empty directories
+find . -type d -empty -delete
