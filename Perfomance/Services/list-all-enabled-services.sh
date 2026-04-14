@@ -1,0 +1,3 @@
+#!/bin/sh
+# List all enabled services
+systemctl list-unit-files|grep enabled
