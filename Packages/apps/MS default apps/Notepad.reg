@@ -1,0 +1,6 @@
+Windows Registry Editor Version 5.00
+
+;Fix Notepad settings (both line wrapping and status bar)
+[HKEY_CURRENT_USER\Software\Microsoft\Notepad]
+"fWrap"=dword:00000001
+"StatusBar"=dword:00000001
