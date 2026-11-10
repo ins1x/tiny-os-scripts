@@ -1,0 +1,7 @@
+# Set the default behavior, in case people don't have core.autocrlf set.
+* text=auto
+# Auto detect text files and perform LF normalization
+*.sh text eol=lf
+# Declare files that will always have CRLF line endings on checkout.
+*.ps1 text eol=crlf
+*.cmd text eol=crlf
